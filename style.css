@@ -100,8 +100,8 @@ hr{
 	font-size: 40px;
 	}
 	.content-wrapper img{
-		width: 200px;
-		height:200px;
+		width: 400px;
+		height:400px;
 		grid-template-columns: 1fr 1fr 1fr;
 	grid-gap: 3em;
 }
