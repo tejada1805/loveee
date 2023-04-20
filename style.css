@@ -70,7 +70,7 @@ html {
 	
 
 	.content-wrapper{
-	margin:0 auto:
+	margin:0 auto;
 	width:80%;
 	text-align:center;
 	position:relative;
@@ -95,7 +95,7 @@ html {
 
 	.btn-down{
 	  margin:0 auto;
-	  text-align:center:
+	  text-align:center;
 	}
 	.btn-down .fas{
 	  color:#00308F;
@@ -106,17 +106,7 @@ html {
 	}
 	
 
-	.grid-layout-50 > div {
-	  border: 1px solid blue;
-	  padding: 8px;
+	#introduction-section{
+	margin: 80px auto 0 auto;
 	
-
-	}
-	.grid-layout-50 {
-	  display: grid;
-	  grid-template-columns: 30% 30% 30%;
-	  grid-column-gap: 1em;
-	  grid-row-gap: 1em;
-	  height: 500px;
-	}
 
