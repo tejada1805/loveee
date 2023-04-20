@@ -5,7 +5,7 @@ html {
 	}
 	h1{
 	  font-size:60px;
-	  color:#00308F;
+	  color:##FF00BF;
 	  margin: 0;
 	}
 	h2{
@@ -85,6 +85,7 @@ hr{
 	}
 	p{
 	  font-size:22px;
+		  color: #FF00BF;
 	}
 	.content-wrapper p{
 	text-transform:uppercase;
