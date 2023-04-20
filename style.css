@@ -89,15 +89,15 @@ hr{
 	}
 	.content-wrapper p{
 	text-transform:uppercase;
-	  color:#00308F;
+	  color:#FF00BF;
 	  margin:20px 0px 60px 0px;
 	}
 	.content-wrapper a{
-	color: #00308F;
+	color: ##FF00BF;
 	text-decoration:none;
 	border:1px solid #ffffff;
 	padding: 8px 16px;
-	font-size: 22px;
+	font-size: 40px;
 	}
 	
 
