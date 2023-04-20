@@ -8,6 +8,13 @@ html {
 	  color:#00308F;
 	  margin: 0;
 	}
+	h2{
+		color:#000000;
+		font-size:42px;
+}
+hr{
+	width:30px;
+}
 	a{
 	text-decoration:none;
 	font-size:30px;
@@ -108,5 +115,28 @@ html {
 
 	#introduction-section{
 	margin: 80px auto 0 auto;
+	text-align:center;
+}
+#grid-layout-33{
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	grid-gap: 3em;
+	width:80%;
+	margin: 0 auto;
+}
+#grid-layout-33 > div{
+	background color:#6495ED;
+	padding: 18px;
+	text-align: center;
+	box-shadow: 0px 0px 10px #87CEFA;
+	margin: 80px auto 40px auto;
+}
+#grid-layout-33 > div:hover{
+	transition: 0.25s ease-in;
+	backfround-color:#ffffff;
 	
-
+}
+#grid-layout-33. fa{
+	color:#666666;
+	font-size:50px;
+}
