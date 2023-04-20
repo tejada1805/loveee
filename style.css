@@ -102,6 +102,8 @@ hr{
 	.content-wrapper img{
 		width: 200px;
 		height:200px;
+		grid-template-columns: 1fr 1fr 1fr;
+	grid-gap: 3em;
 }
 
 	.btn-down{
