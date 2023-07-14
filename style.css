@@ -64,7 +64,7 @@ hr{
 
 	}
 	#container-bg{
-	  background:url(img/blossom-bg.png) no-repeat center center fixed;
+	  background-color: #F0F8FF;
 	 background-size: cover;
 	  background-attachment: fixed;
 	  width:100%;
