@@ -19,7 +19,7 @@ hr{
 	text-decoration:none;
 	font-size:30px;
 	  text-transform:uppercase;
-	  color:#000000;
+	  color:696969;
 	  padding:8px 16px;
 	}
 	body{
@@ -30,7 +30,7 @@ hr{
 	}
 	header {
 	height: 60px;
-	  color: #000000;
+	  color:696969;
 	
 
 	}
@@ -48,7 +48,7 @@ hr{
 	margin:0;
 	}
 	.nav-container ul li a {
-	color: #000000;
+	color:696969;
 	text-decoration: none;
 	position: relative;
 	top:22px;
@@ -57,7 +57,7 @@ hr{
 	padding: 0px 4px 6px 4px;
 	}
 	.nav-container ul li a:hover {
-	background-color: #000000;
+	background-color:696969;
 	color: #000000;
 	transition:0.25s ease-in;
 	
