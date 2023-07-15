@@ -19,7 +19,7 @@ hr{
 	text-decoration:none;
 	font-size:30px;
 	  text-transform:uppercase;
-	  color:#00308F;
+	  color:#000000;
 	  padding:8px 16px;
 	}
 	body{
@@ -30,7 +30,7 @@ hr{
 	}
 	header {
 	height: 60px;
-	  color: #00308F;
+	  color: #000000;
 	
 
 	}
@@ -48,7 +48,7 @@ hr{
 	margin:0;
 	}
 	.nav-container ul li a {
-	color: #68edc6;
+	color: #000000;
 	text-decoration: none;
 	position: relative;
 	top:22px;
@@ -57,14 +57,14 @@ hr{
 	padding: 0px 4px 6px 4px;
 	}
 	.nav-container ul li a:hover {
-	background-color: #9cd2f7;
-	color: #D3EBE9;
+	background-color: #000000;
+	color: #000000;
 	transition:0.25s ease-in;
 	
 
 	}
 	#container-bg{
-	  background-color: #F0F8FF;
+	  background-color: #000000;
 	 background-size: cover;
 	  background-attachment: fixed;
 	  width:100%;
@@ -85,17 +85,17 @@ hr{
 	}
 	p{
 	  font-size:22px;
-		  color: #FF00BF;
+		  color: #000000;
 	}
 	.content-wrapper p{
 	text-transform:uppercase;
-	  color:#FF00BF;
+	  color:#000000;
 	  margin:20px 0px 60px 0px;
 	}
 	.content-wrapper a{
-	color: #FFFFFF;
+	color: #000000;
 	text-decoration:none;
-	border:1px solid #ffffff;
+	border:1px solid #000000;
 	padding: 8px 16px;
 	font-size: 60px;
 	}
@@ -105,7 +105,7 @@ hr{
 		grid-template-columns: 1fr 1fr 1fr;
 	grid-gap: 3em;
 		padding: 18px;
-		box-shadow: 0px 0px 10px #87CEFA;
+		box-shadow: 0px 0px 10px #000000;
 }
 
 	.btn-down{
@@ -113,7 +113,7 @@ hr{
 	  text-align:center;
 	}
 	.btn-down .fas{
-	  color:#00308F;
+	  color:#000000;
 	  font-size:40px;
 	  position: absolute;
 	  bottom: 100px;
@@ -133,7 +133,7 @@ hr{
 	margin: 0 auto;
 }
 #grid-layout-33 > div{
-	background color:#6495ED;
+	background color:#000000;
 	padding: 18px;
 	text-align: center;
 	box-shadow: 0px 0px 10px #87CEFA;
@@ -141,11 +141,11 @@ hr{
 }
 #grid-layout-33 > div:hover{
 	transition: 0.25s ease-in;
-	backfround-color:#00BFFF;
+	backfround-color:#000000;
 	
 }
 #grid-layout-33 .fa{
-	color:#E6E6FA;
+	color:#000000;
 	font-size:50px;
 }
 #content-video {
@@ -177,7 +177,7 @@ cursor:pointer;
 	color: #000000;
 }
 .content-footer a:hover{
-	color:#666666;
+	color:#000000;
 	transition: 0.25s ease-in;
 }
 .content-footer ul{
